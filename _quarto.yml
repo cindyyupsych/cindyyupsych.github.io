@@ -3,12 +3,34 @@ project:
   output-dir: docs
 
 website:
-  title: "cindyyupsych.github.io"
+  title: "Cindy Yu"
+  description: "Clinical psychology researcher (UBC) studying how people turn to AI chatbots during acute distress and suicidal ideation."
+  site-url: "https://cindyyupsych.github.io"
+  repo-url: "https://github.com/cindyyupsych/cindyyupsych.github.io"
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: blog.qmd
+        text: Blog
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:cyu42@student.ubc.ca
+        aria-label: Mail
+      - icon: mortarboard-fill
+        href: https://scholar.google.ca/citations?user=c0avFGoAAAAJ
+        aria-label: Google Scholar
+  page-footer:
+    border: true
+    left: "© 2026 Cindy Yu · Vancouver, BC"
+    right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
@@ -16,8 +38,13 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full
+    grid:
+      body-width: 900px
+
+# Adds citation metadata so your papers are discoverable
+google-scholar: true
 
 editor: visual
 

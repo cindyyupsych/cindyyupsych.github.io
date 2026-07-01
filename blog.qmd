@@ -1,0 +1,14 @@
+---
+title: "Blog"
+subtitle: "Thoughts on AI chatbots, distress, and suicide research."
+listing:
+  contents: blog-posts
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, description, categories, reading-time]
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

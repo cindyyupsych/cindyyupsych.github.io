@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Stay tuned for more coming soon :) 
+My path toward clinical psychology was non-linear. I began my academic journey in health sciences, earning an MSc in Epidemiology. This led to a career as a Scientific Evaluator developing risk assessment evaluations of air pollution health data, and later as a Social Epidemiologist investigating social prescribing and social connection.
+
+While this work helped to build my expertise in quantitative analysis, qualitative methods, and program evaluation, it also clarified that my natural interests were shifting from population-level research to the individual level; specifically, to how different personal and interpersonal factors shape psychopathology and suicide. Volunteering on the crisis line and in various peer-support roles further drew me in the same direction clinically. I thus left a stable career to return to school and pursue this exciting new path to becoming a clinical psychologist.
+
+Today, as an MA/PhD student at the University of British Columbia, I continue to build on the experience and skills that came before. My research explores the relationship between AI chatbots and individuals experiencing suicidal ideation, specifically focusing on their lived experiences. My research philosophy is that the research question determines the method, therefore I use both quantitative and qualitative approaches. My recent work uses modeling approaches like structural equation modeling and multilevel modeling, alongside study designs like ecological momentary assessments and mixed-methods designs.

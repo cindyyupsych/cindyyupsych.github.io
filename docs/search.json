@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cindy Yu",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Hello! Welcome to my page. Please note this site is a work in progress."
+    "text": "(Coming soon)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)\n\n\nYour browser can’t display the embedded PDF. Download the CV here."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Stay tuned for more coming soon :)"
+    "text": "My path toward clinical psychology was non-linear. I began my academic journey in health sciences, earning an MSc in Epidemiology. This led to a career as a Scientific Evaluator developing risk assessment evaluations of air pollution health data, and later as a Social Epidemiologist investigating social prescribing and social connection.\nWhile this work helped to build my expertise in quantitative analysis, qualitative methods, and program evaluation, it also clarified that my natural interests were shifting from population-level research to the individual level; specifically, to how different personal and interpersonal factors shape psychopathology and suicide. Volunteering on the crisis line and in various peer-support roles further drew me in the same direction clinically. I thus left a stable career to return to school and pursue this exciting new path to becoming a clinical psychologist.\nToday, as an MA/PhD student at the University of British Columbia, I continue to build on the experience and skills that came before. My research explores the relationship between AI chatbots and individuals experiencing suicidal ideation, specifically focusing on their lived experiences. My research philosophy is that the research question determines the method, therefore I use both quantitative and qualitative approaches. My recent work uses modeling approaches like structural equation modeling and multilevel modeling, alongside study designs like ecological momentary assessments and mixed-methods designs."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Why I am studying AI and suicide\n\n\n\n\n\n\nAI\n\n\nSuicide\n\n\n\n(Coming soon)\n\n\n\n\n\nJul 1, 2026\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cindy Yu",
+    "section": "",
+    "text": "Hello! I am a clinical psychology MA/PhD student at the University of British Columbia, working with Dr. E. David Klonsky. I’ve long wanted to be able to directly support individuals in their darkest moments, ultimately leading me to return to school to pursue a career as a clinical psychologist. In times of crisis, some of us turn to friends, family, a pet, or professional help. Some of us have no one to turn to. And increasingly, some individuals are turning to AI chatbots. By seeking to understand the lived experiences behind these interactions, my research explores the intersection of AI chatbots, emotional distress, and suicide."
   }
 ]
