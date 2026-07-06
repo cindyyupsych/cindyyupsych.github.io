@@ -4,4 +4,5 @@ description: "(Coming soon)"
 author: "Cindy Yu"
 date: "2026-07-01"
 categories: [AI, Suicide]
+draft: true #remove this when ready to publish
 ---

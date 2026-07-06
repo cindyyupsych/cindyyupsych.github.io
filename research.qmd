@@ -2,7 +2,32 @@
 title: "Research"
 toc: true
 toc-title: "Research areas"
+format:
+  html:
+    header-includes: |
+      <meta name="description" content="Current research projects exploring the intersection of AI chatbots and suicidal ideation, and momentary measurement using intensive longitudinal designs.">
 ---
 
-(Coming soon) 
+My current research interests span three main lines of work: the central question on AI chatbots and suicide, the use of intensive longitudinal study designs to understand suicidal ideation in the moment, and supporting applied researchers in using quantitative methods.
 
+## AI chatbots, distress, and suicidal ideation
+
+*People experiencing emotional distress and suicidal ideation are increasingly turning to AI chatbots, but the field still has limited understanding of how these interactions impact vulnerable individuals.*
+
+My MA thesis examines how young adults use AI chatbots when they are in serious emotional distress or experiencing suicidal ideation (PI: [Dr. E. David Klonsky](https://psych.ubc.ca/profile/david-klonsky/){target="_blank"}). It combines the quantitative findings of a large-scale survey with the in-depth accounts of lived experiences from qualitative interviews to better understand this phenomenon and lay the groundwork for future hypothesis-driven research. 
+
+## Momentary measurement of suicidal ideation
+
+*Suicidal ideation can fluctuate over the course of hours, which clinic visits and one-time surveys are too infrequent to capture; smartphones and intensive longitudinal study designs allow us to capture changes as they happen.*
+
+I am interested in using intensive longitudinal study designs such as ecological momentary assessments (EMA) to better understand suicidal ideation as it occurs in daily life, in the moment. I am currently studying how discrete emotions and emotion dynamic indices relate to changes in suicidal ideation among high-risk young adults (PI: Dr. Klonsky). 
+
+## Quantitative methods for applied researchers
+
+*Complex quantitative methods can open the door to a wider range of research questions, but accessible guidance that would support applied researchers in using them is often limited.*
+
+I am also interested in the measurement and modeling side of clinical science. Currently, I am working on assessing the psychometric validity of an existing emotion measure (the Multidimensional Emotion Questionnaire; PI: Dr. Klonsky), developing a tutorial on how to apply structural equation modeling of latent interactions (with [Dr. Victoria Savalei](https://psych.ubc.ca/profile/victoria-savalei/){target="_blank"}), and writing a reporting practices guideline for using multilevel models in intensive longitudinal data (with [Dr. Jason Rights](https://psych.ubc.ca/profile/jason-rights/){target="_blank"}).
+
+## Publications
+
+Full list on my [CV](cv.qmd) and [Google Scholar](https://scholar.google.ca/citations?user=c0avFGoAAAAJ).

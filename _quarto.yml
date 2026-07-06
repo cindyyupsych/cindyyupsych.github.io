@@ -5,8 +5,10 @@ project:
 website:
   title: "Cindy Yu"
   description: "Clinical psychology researcher (UBC) studying how people turn to AI chatbots during acute distress and suicidal ideation."
-  site-url: "https://cindyyupsych.github.io"
+  site-url: "https://cindyyupsych.ca"
   repo-url: "https://github.com/cindyyupsych/cindyyupsych.github.io"
+  twitter-card: true
+  open-graph: true
   navbar:
     pinned: true
     left:
@@ -16,8 +18,8 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: blog.qmd
-        text: Blog
+      # - href: blog.qmd
+      #   text: Blog
       - href: cv.qmd
         text: CV
     right:
@@ -27,6 +29,7 @@ website:
       - icon: mortarboard-fill
         href: https://scholar.google.ca/citations?user=c0avFGoAAAAJ
         aria-label: Google Scholar
+        target: _blank
   page-footer:
     border: true
     left: "© 2026 Cindy Yu · Vancouver, BC"

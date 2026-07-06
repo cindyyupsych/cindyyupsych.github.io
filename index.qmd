@@ -1,6 +1,11 @@
 ---
 title: "Cindy Yu"
 pagetitle: "Cindy Yu — Clinical Psychology"
+format:
+  html:
+    header-includes: |
+      <meta name="description" content="Cindy Yu is a Clinical Psychology MA/PhD student at UBC researching the intersection of AI chatbots, emotional distress, and suicide.">
+      <meta name="keywords" content="Clinical Psychology, AI Chatbots, Emotional Distress, Suicide, UBC">
 about:
   template: jolla
   image: profile.jpeg
@@ -12,18 +17,25 @@ about:
     - text: Google Scholar
       icon: mortarboard-fill
       href: https://scholar.google.ca/citations?user=c0avFGoAAAAJ
+      target: _blank
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/cindyyu3/
+      target: _blank
     - text: GitHub
       icon: github
       href: https://github.com/cindyyupsych
+      target: _blank
     - text: OSF
       icon: link
       href: https://osf.io/user/epmrt
+      target: _blank
     - text: ORCID
       icon: person-lines-fill
       href: https://orcid.org/0000-0001-9622-1964
+      target: _blank
 ---
 
-Hello! I am a clinical psychology MA/PhD student at the [University of British Columbia](https://psych.ubc.ca/){target="_blank"}, working with [Dr. E. David Klonsky](https://psych.ubc.ca/profile/david-klonsky/){target="_blank"}. I've long wanted to be able to directly support individuals in their darkest moments, ultimately leading me to return to school to pursue a career as a clinical psychologist. In times of crisis, some of us turn to friends, family, a pet, or professional help. Some of us have no one to turn to. And increasingly, some individuals are turning to AI chatbots. By seeking to understand the lived experiences behind these interactions, my research explores the intersection of AI chatbots, emotional distress, and suicide.
+Hello! I am a **clinical psychology MA/PhD student** at the [University of British Columbia](https://psych.ubc.ca/){target="_blank"}, working with [Dr. E. David Klonsky](https://psych.ubc.ca/profile/david-klonsky/){target="_blank"}. I've long wanted to be able to directly support individuals in their darkest moments, ultimately leading me to return to school to pursue a career as a clinical psychologist.
+
+In times of crisis, some of us turn to friends, family, a pet, or professional help. Some of us have no one to turn to. And increasingly, some individuals are turning to AI chatbots. By seeking to understand the lived experiences behind these interactions, [**my research explores the intersection of AI chatbots, emotional distress, and suicide**](research.qmd)**.**

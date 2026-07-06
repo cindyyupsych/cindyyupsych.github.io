@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "(Coming soon)"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download CV (PDF)\n\n\nYour browser can’t display the embedded PDF. Download the CV here."
+    "text": "Download Cindy Yu’s CV (PDF)\n\n\nYour browser can’t display the embedded PDF. Download the CV here."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My path toward clinical psychology was non-linear. I began my academic journey in health sciences, earning an MSc in Epidemiology. This led to a career as a Scientific Evaluator developing risk assessment evaluations of air pollution health data, and later as a Social Epidemiologist investigating social prescribing and social connection.\nWhile this work helped to build my expertise in quantitative analysis, qualitative methods, and program evaluation, it also clarified that my natural interests were shifting from population-level research to the individual level; specifically, to how different personal and interpersonal factors shape psychopathology and suicide. Volunteering on the crisis line and in various peer-support roles further drew me in the same direction clinically. I thus left a stable career to return to school and pursue this exciting new path to becoming a clinical psychologist.\nToday, as an MA/PhD student at the University of British Columbia, I continue to build on the experience and skills that came before. My research explores the relationship between AI chatbots and individuals experiencing suicidal ideation, specifically focusing on their lived experiences. My research philosophy is that the research question determines the method, therefore I use both quantitative and qualitative approaches. My recent work uses modeling approaches like structural equation modeling and multilevel modeling, alongside study designs like ecological momentary assessments and mixed-methods designs."
+    "text": "My path toward clinical psychology has been non-linear. I began my academic journey in health sciences, earning an MSc in Epidemiology. This led to a career as a Scientific Evaluator developing risk assessment evaluations of air pollution health data, and later as a Social Epidemiologist investigating social prescribing and social connection.\nWhile this work helped to build my expertise in quantitative analysis, qualitative methods, and program evaluation, it also clarified that my natural interests were shifting from population-level research to the individual level; specifically, to how different personal and interpersonal factors shape psychopathology and suicide. Volunteering on the crisis line and in various peer-support roles further drew me in the same direction clinically. I thus returned to school to pursue this exciting new path to becoming a clinical psychologist.\nToday, as an MA/PhD student at the University of British Columbia, I continue to build on the experience and skills that came before. My main research explores the relationship between AI chatbots and individuals experiencing suicidal ideation, specifically focusing on their lived experiences. My research philosophy is that the research question determines the method, therefore I use both quantitative and qualitative approaches. My recent work uses modeling approaches like structural equation modeling and multilevel modeling, alongside study designs like ecological momentary assessments and mixed-methods designs.\nI’m always open to connecting, so please don’t hesitate to reach out!"
   },
   {
     "objectID": "blog.html",
@@ -32,6 +25,48 @@
     "href": "index.html",
     "title": "Cindy Yu",
     "section": "",
-    "text": "Hello! I am a clinical psychology MA/PhD student at the University of British Columbia, working with Dr. E. David Klonsky. I’ve long wanted to be able to directly support individuals in their darkest moments, ultimately leading me to return to school to pursue a career as a clinical psychologist. In times of crisis, some of us turn to friends, family, a pet, or professional help. Some of us have no one to turn to. And increasingly, some individuals are turning to AI chatbots. By seeking to understand the lived experiences behind these interactions, my research explores the intersection of AI chatbots, emotional distress, and suicide."
+    "text": "Hello! I am a clinical psychology MA/PhD student at the University of British Columbia, working with Dr. E. David Klonsky. I’ve long wanted to be able to directly support individuals in their darkest moments, ultimately leading me to return to school to pursue a career as a clinical psychologist.\nIn times of crisis, some of us turn to friends, family, a pet, or professional help. Some of us have no one to turn to. And increasingly, some individuals are turning to AI chatbots. By seeking to understand the lived experiences behind these interactions, my research explores the intersection of AI chatbots, emotional distress, and suicide."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My current research interests span three main lines of work: the central question on AI chatbots and suicide, the use of intensive longitudinal study designs to understand suicidal ideation in the moment, and supporting applied researchers in using quantitative methods."
+  },
+  {
+    "objectID": "research.html#ai-chatbots-distress-and-suicidal-ideation",
+    "href": "research.html#ai-chatbots-distress-and-suicidal-ideation",
+    "title": "Research",
+    "section": "AI chatbots, distress, and suicidal ideation",
+    "text": "AI chatbots, distress, and suicidal ideation\nPeople experiencing emotional distress and suicidal ideation are increasingly turning to AI chatbots, but the field still has limited understanding of how these interactions impact vulnerable individuals.\nMy MA thesis examines how young adults use AI chatbots when they are in serious emotional distress or experiencing suicidal ideation (PI: Dr. E. David Klonsky). It combines the quantitative findings of a large-scale survey with the in-depth accounts of lived experiences from qualitative interviews to better understand this phenomenon and lay the groundwork for future hypothesis-driven research."
+  },
+  {
+    "objectID": "research.html#momentary-measurement-of-suicidal-ideation",
+    "href": "research.html#momentary-measurement-of-suicidal-ideation",
+    "title": "Research",
+    "section": "Momentary measurement of suicidal ideation",
+    "text": "Momentary measurement of suicidal ideation\nSuicidal ideation can fluctuate over the course of hours, which clinic visits and one-time surveys are too infrequent to capture; smartphones and intensive longitudinal study designs allow us to capture changes as they happen.\nI am interested in using intensive longitudinal study designs such as ecological momentary assessments (EMA) to better understand suicidal ideation as it occurs in daily life, in the moment. I am currently studying how discrete emotions and emotion dynamic indices relate to changes in suicidal ideation among high-risk young adults (PI: Dr. Klonsky)."
+  },
+  {
+    "objectID": "research.html#quantitative-methods-for-applied-researchers",
+    "href": "research.html#quantitative-methods-for-applied-researchers",
+    "title": "Research",
+    "section": "Quantitative methods for applied researchers",
+    "text": "Quantitative methods for applied researchers\nComplex quantitative methods can open the door to a wider range of research questions, but accessible guidance that would support applied researchers in using them is often limited.\nI am also interested in the measurement and modeling side of clinical science. Currently, I am working on assessing the psychometric validity of an existing emotion measure (the Multidimensional Emotion Questionnaire; PI: Dr. Klonsky), developing a tutorial on how to apply structural equation modeling of latent interactions (with Dr. Victoria Savalei), and writing a reporting practices guideline for using multilevel models in intensive longitudinal data (with Dr. Jason Rights)."
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "Selected publications",
+    "text": "Selected publications\nFull list on my CV and Google Scholar."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nFull list on my CV and Google Scholar."
   }
 ]
