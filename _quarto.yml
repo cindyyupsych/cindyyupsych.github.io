@@ -7,6 +7,8 @@ website:
   description: "Clinical psychology researcher (UBC) studying how people turn to AI chatbots during acute distress and suicidal ideation."
   site-url: "https://cindyyupsych.ca"
   repo-url: "https://github.com/cindyyupsych/cindyyupsych.github.io"
+  google-analytics: "G-5MP5NDH1RQ"
+  cookie-consent: true
   twitter-card: true
   open-graph: true
   navbar:
