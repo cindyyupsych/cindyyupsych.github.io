@@ -11,6 +11,7 @@ website:
   cookie-consent: true
   twitter-card: true
   open-graph: true
+  favicon: "favicon.svg"
   navbar:
     pinned: true
     left:
