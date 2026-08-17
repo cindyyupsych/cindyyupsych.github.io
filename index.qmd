@@ -8,7 +8,7 @@ format:
       <meta name="keywords" content="Clinical Psychology, AI Chatbots, Emotional Distress, Suicide, UBC">
 about:
   template: jolla
-  image: profile.jpeg
+  image: profile.jpg
   image-shape: rounded
   links:
     - text: Email
