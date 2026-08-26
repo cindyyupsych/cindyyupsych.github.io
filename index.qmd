@@ -11,6 +11,9 @@ about:
   image: profile.jpg
   image-shape: rounded
   links:
+    - text: UBC Profile
+      icon: bank  # Or 'building' / 'person-badge'
+      href: https://psych.ubc.ca/profile/cindy-yu/
     - text: Email
       icon: envelope
       href: mailto:cyu42@student.ubc.ca
